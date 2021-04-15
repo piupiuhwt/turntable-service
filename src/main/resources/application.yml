@@ -1,0 +1,13 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: turntable
+
+prizes: 方便面,粥,麻辣烫,紫菜卷,自己做,石锅,汉堡,火锅,五爷拌面,苕粉,烧烤
+
+global-config:
+  prizes:
+    - 面
+    - 粥
+    - 米
